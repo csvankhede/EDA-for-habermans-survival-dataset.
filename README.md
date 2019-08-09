@@ -1,4 +1,6 @@
-# EDA-for-habermans-survival-dataset.
+# EDA for habermans survival dataset.
+![medical-web-designs](https://user-images.githubusercontent.com/25454660/62775707-0dd71080-bac6-11e9-9d5e-bfdbe429aaa1.jpg)
+
 Exploratory data analysis for habermans survival dataset
 
 This notebook contain different data analysis and visulization technique applied on habermans survival dataset.
